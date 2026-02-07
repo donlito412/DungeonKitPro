@@ -27,7 +27,7 @@ Create complete dungeons with rooms, corridors, and decorations instantly.
 
 ## Requirements
 
-- Unity 2021.3 or later
+- Unity 6 LTS or later
 - Universal Render Pipeline (URP)
 
 ## Version History
